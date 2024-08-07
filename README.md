@@ -11,6 +11,8 @@ $$ d_{ij} = \begin{bmatrix}
 {z_i} - {z_j}
 \end{bmatrix}
 $$
+![image](https://github.com/user-attachments/assets/c041606b-a119-4d93-9bd8-7156cc775bde)
+
 
 The libraries used are the same as DeepRank-GNN-esm, with an extra e3nn library.  
 
